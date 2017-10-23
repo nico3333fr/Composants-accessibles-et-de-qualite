@@ -7,20 +7,20 @@ Checklistes/idées tirées de l'atelier de @goetsu et @nico3333fr à Paris Web :
 - Design Pattern
 - tests
 - référentiel-compliant
-- responsive, 
-- supporte la nav séquentielle, 
-- s’insère dans une structure hx,
+- responsive
+- supporte la nav séquentielle
+- s’insère dans une structure hx
 - Compat navigateurs
 
 ## Industrialisation 
 
 - Github, 
 - NPM/Yarn, 
-- versions minifiées, 
-- versions transpilées, 
+- versions minifiées
+- versions transpilées
 - licencer le code, 
-- builders, 
-- "pluginification", 
+- builders
+- "pluginification"
 - avec ou sans jquery
 - plusieurs composants (occurences) par page
 - customisation/configurabilité
