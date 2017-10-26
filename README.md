@@ -1,6 +1,6 @@
 # Des composants accessibles et de qualité
 
-Checklistes/idées tirées de l'atelier de @goetsu et @nico3333fr à Paris Web : https://www.paris-web.fr/2017/ateliers/des-composants-accessibles-et-de-qualite-le-double-effet-kiss-cool.php
+Checklistes/idées tirées de l’atelier de @goetsu et @nico3333fr à Paris Web : https://www.paris-web.fr/2017/ateliers/des-composants-accessibles-et-de-qualite-le-double-effet-kiss-cool.php
 
 ## Accessibilité et Ergonomie 
 
