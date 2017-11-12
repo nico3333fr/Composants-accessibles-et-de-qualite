@@ -7,7 +7,7 @@ Si vous souhaitez, complétez cette liste ou proposez.
 ## Accessibilité et Ergonomie 
 
 - Design Pattern
-- tests
+- tests (AT, etc.)
 - référentiel-compliant
 - responsive
 - supporte la nav séquentielle
