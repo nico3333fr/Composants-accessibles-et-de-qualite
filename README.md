@@ -6,7 +6,7 @@ Si vous souhaitez, complétez cette liste ou proposez.
 
 ## Accessibilité et Ergonomie 
 
-- Design Pattern
+- Design Patterns (à voir si adapté selon les cas)
 - tests (AT, etc.)
 - référentiel-compliant
 - responsive
