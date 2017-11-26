@@ -32,7 +32,7 @@ Si vous souhaitez, complétez cette liste ou proposez.
 - CDN
 - tests (fonctionnels, unitaires, etc.) 
 - exemples tout faits
-- i18n (RTL, etc.)
+- internationalisation (Right To Left, etc.)
 
 
 ## Design 
