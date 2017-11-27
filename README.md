@@ -70,7 +70,7 @@ Si vous souhaitez, complétez cette liste ou proposez.
 - documentation
 - doc simple pour non-technique
 - exemples
-- exemples de sites qui l’utilisent
+- exemples de sites qui l’utilisent/showcase
 - suivi des issues (milestones)
 - communauté (travail restant, etc.)
 - logo, branding
