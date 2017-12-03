@@ -16,8 +16,8 @@ Si vous souhaitez, complétez cette liste ou proposez.
 
 ## Industrialisation 
 
-- Github, 
-- NPM/Yarn, 
+- Github
+- NPM/Yarn
 - versions minifiées
 - versions transpilées
 - licencer le code, 
