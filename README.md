@@ -20,7 +20,7 @@ Si vous souhaitez, complétez cette liste ou proposez.
 - NPM/Yarn
 - versions minifiées
 - versions transpilées
-- licencer le code, 
+- licencer le code
 - builders
 - "pluginification"
 - avec ou sans jquery
