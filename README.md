@@ -60,7 +60,7 @@ Si vous souhaitez, complétez cette liste ou proposez.
 ## Pour aller plus loin 
 
 - tests edge cases 
-- imbrication
+- imbrication de composants, imbrication d´un composant dans le même (ex. accordéon dans accordéon)
 - mix pour nouveaux composants
 - configs par défauts selon les environnements
 
