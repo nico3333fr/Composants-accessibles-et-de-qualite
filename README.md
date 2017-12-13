@@ -2,7 +2,7 @@
 
 Checklistes/idées tirées de l’atelier de @goetsu et @nico3333fr à Paris Web : https://www.paris-web.fr/2017/ateliers/des-composants-accessibles-et-de-qualite-le-double-effet-kiss-cool.php
 
-Si vous souhaitez, complétez cette liste ou proposez.
+Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 
 ## Accessibilité et Ergonomie 
 
