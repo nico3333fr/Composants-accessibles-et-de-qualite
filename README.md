@@ -12,7 +12,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - responsive
 - supporte la nav séquentielle
 - s’insère dans une structure hx
-- Compat navigateurs
+- Compatibilité navigateurs
 
 ## Industrialisation 
 
