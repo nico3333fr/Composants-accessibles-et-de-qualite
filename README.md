@@ -24,7 +24,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - builders
 - "pluginification"
 - avec ou sans jquery
-- plusieurs composants (occurences) par page
+- plusieurs composants (occurences) par page (dont occurences insérées via AJAX)
 - customisation/configurabilité
 - intégralement paramétrable
 - publier des releases
