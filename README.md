@@ -40,7 +40,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - exemples
 - exemples prêts à être utilisés
 - présentation jolie
-- animations
+- animations/transitions
 - montrer des use cases différents
 
 
