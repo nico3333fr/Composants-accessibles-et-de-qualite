@@ -45,7 +45,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 
 
 ## BP code 
-- CSP compliant 
+- CSP compliant (pas de JS/CSS inline, berk)
 - orthogonalité
 - fonctionnement sans js
 - performance du code js
