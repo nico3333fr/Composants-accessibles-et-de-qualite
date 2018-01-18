@@ -28,7 +28,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - customisation/configurabilité
 - intégralement paramétrable
 - publier des releases
-- avoir des préférences pour l’indentation
+- avoir des préférences pour l’indentation (.editorconfig)
 - CDN
 - tests (fonctionnels, unitaires, etc.) 
 - exemples tout faits
