@@ -27,7 +27,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - plusieurs composants (occurences) par page (dont occurences insérées via AJAX)
 - customisation/configurabilité
 - intégralement paramétrable
-- publier des releases
+- publier des releases (sur Github)
 - avoir des préférences pour l’indentation (.editorconfig)
 - CDN
 - tests (fonctionnels, unitaires, etc.) 
