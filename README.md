@@ -67,13 +67,13 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 
 ## Promotion/Vie du projet
 
-- news
+- news/RSS
 - documentation
 - doc simple pour non-technique
 - exemples
 - exemples de sites qui l’utilisent/showcase
 - suivi des issues (milestones)
 - communauté (travail restant, etc.)
-- logo, branding
+- logo, branding, compte Twitter
 
 Si vous voyez des bonnes idées à ajouter, GO GO GO !
