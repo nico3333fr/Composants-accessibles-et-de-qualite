@@ -32,7 +32,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - CDN
 - tests (fonctionnels, unitaires, etc.) 
 - exemples tout faits
-- internationalisation (Right To Left, etc.)
+- internationalisation (Right To Left, tous textes paramétrables, etc.)
 
 
 ## Design 
