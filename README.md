@@ -53,6 +53,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - composants scopés
 - lintés
 - penser à ce que ça fonctionne en AJAX
+- penser en délégation
 - vérifier que quand on clique sur un enfant, les actions censées se déclencher se déclenchent bien (ex, un enfant d'un bouton en Vanilla JS => https://github.com/nico3333fr/van11y-accessible-hide-show-aria/commit/1e402c73905ec29c744149130b5649c8329184ca )
 - tests
 - modules selon la stack (angular/etc.)
