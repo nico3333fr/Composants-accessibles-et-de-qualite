@@ -69,7 +69,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 
 ## Promotion/Vie du projet
 
-- news/RSS
+- news/RSS/ATOM
 - documentation
 - doc simple pour non-technique
 - exemples
