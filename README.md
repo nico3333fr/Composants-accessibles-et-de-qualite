@@ -49,7 +49,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - vérifier que les id générés ne soient pas dupliqués en cas de multiples instances (dont venant d'AJAX)
 - orthogonalité
 - fonctionnement sans js
-- performance du code js
+- performance du code js (éviter les sélecteurs sans variable avec jQuery)
 - amélioration progressive
 - composants scopés
 - lintés (penser à mettre la config sur le repo le cas échéant)
