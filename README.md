@@ -18,6 +18,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 
 - Github
 - NPM/Yarn
+- vérifier que ça marche bien avec Webpack
 - versions minifiées (numéro de version indiqué en commentaire)
 - versions transpilées
 - licencer le code
