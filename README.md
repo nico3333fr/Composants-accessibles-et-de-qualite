@@ -53,6 +53,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - performance du code js (éviter les sélecteurs sans variable avec jQuery)
 - amélioration progressive
 - composants scopés
+- une classe scopée par élément
 - lintés (penser à mettre la config sur le repo le cas échéant)
 - penser à ce que ça fonctionne en AJAX
 - penser en délégation
