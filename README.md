@@ -65,6 +65,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 ## Pour aller plus loin 
 
 - tests edge cases 
+- tests composants mixés (sur même déclencheur)
 - imbrication de composants, imbrication d´un composant dans le même (ex. accordéon dans accordéon)
 - mix pour nouveaux composants
 - prévoir des éléments cachés aria-hidden="true" pour poser des pseudo-éléments CSS non vocalisés
