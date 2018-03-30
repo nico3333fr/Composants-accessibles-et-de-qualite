@@ -6,7 +6,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 
 ## Accessibilité et Ergonomie 
 
-- Design Patterns (à voir si adapté selon les cas)
+- Design Patterns (à voir si adapté selon les cas, proposer plusieurs fonctionnements si possible)
 - tests (aides techniques, etc.)
 - référentiel-compliant
 - responsive
