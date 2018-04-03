@@ -80,6 +80,6 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - exemples de sites qui l’utilisent/showcase
 - suivi des issues (milestones)
 - communauté (travail restant, etc.)
-- logo, branding, compte Twitter
+- logo, branding, compte Twitter/Mastodon/autres
 
 Si vous voyez des bonnes idées à ajouter, GO GO GO !
