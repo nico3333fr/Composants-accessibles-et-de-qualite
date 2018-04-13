@@ -50,10 +50,10 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - vérifier que les id générés ne soient pas dupliqués en cas de multiples instances (dont venant d'AJAX)
 - orthogonalité
 - fonctionnement sans js
-- performance du code js (éviter les sélecteurs sans variable avec jQuery)
+- performance du code js (éviter les sélecteurs sans variable avec jQuery, etc.)
 - amélioration progressive
 - composants scopés
-- une classe scopée par élément
+- une classe scopée par élément (permettre stylage plus aisé)
 - lintés (penser à mettre la config sur le repo le cas échéant)
 - penser à ce que ça fonctionne en AJAX
 - penser en délégation
