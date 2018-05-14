@@ -47,7 +47,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 
 ## BP code 
 - CSP compliant (pas de JS/CSS inline, berk)
-- vérifier que les id générés ne soient pas dupliqués en cas de multiples instances (dont venant d'AJAX)
+- vérifier que les id générés ne soient pas dupliqués en cas de multiples instances (dont venant d’AJAX)
 - orthogonalité
 - fonctionnement sans js
 - performance du code js (éviter les sélecteurs sans variable avec jQuery, etc.)
@@ -57,7 +57,8 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - lintés (penser à mettre la config sur le repo le cas échéant)
 - penser à ce que ça fonctionne en AJAX
 - penser en délégation
-- vérifier que quand on clique sur un enfant, les actions censées se déclencher se déclenchent bien (ex, un enfant d'un bouton en Vanilla JS => https://github.com/nico3333fr/van11y-accessible-hide-show-aria/commit/1e402c73905ec29c744149130b5649c8329184ca )
+- possible de surcharger la config par défaut à l’appel
+- vérifier que quand on clique sur un enfant, les actions censées se déclencher se déclenchent bien (ex, un enfant d’un bouton en Vanilla JS => https://github.com/nico3333fr/van11y-accessible-hide-show-aria/commit/1e402c73905ec29c744149130b5649c8329184ca )
 - tests
 - modules selon la stack (angular/etc.)
 
@@ -68,7 +69,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - tests composants mixés (sur même déclencheur)
 - imbrication de composants, imbrication d´un composant dans le même (ex. accordéon dans accordéon)
 - mix pour nouveaux composants
-- prévoir des éléments cachés aria-hidden="true" pour poser des pseudo-éléments CSS non vocalisés
+- prévoir des éléments cachés `aria-hidden="true"` pour poser des pseudo-éléments CSS non vocalisés
 - configs par défauts selon les environnements
 
 ## Promotion/Vie du projet
