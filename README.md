@@ -34,6 +34,7 @@ Si vous souhaitez, complétez cette liste ou proposez, en issue ou PR.
 - tests (fonctionnels, unitaires, etc.) 
 - exemples tout faits
 - internationalisation-friendly (Right To Left, tous textes paramétrables, etc.)
+- spécifier le langage pour les morceaux de code dans les readme.md (pour en améliorer la coloration syntaxique, etc.)
 
 
 ## Design 
